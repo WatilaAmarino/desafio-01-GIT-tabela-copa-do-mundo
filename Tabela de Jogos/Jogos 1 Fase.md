@@ -2,6 +2,7 @@
 
 ## Grupo A
 
+<<<<<<< HEAD
 ## [Qatar](https://pt.wikipedia.org/wiki/Catar)
 
 ## [Equador](https://pt.wikipedia.org/wiki/Equador)
@@ -79,3 +80,8 @@
 ## [Uruguai](https://pt.wikipedia.org/wiki/Uruguai)
 
 ## [Coreia do Sul](https://pt.wikipedia.org/wiki/Coreia_do_Sul) 
+=======
+## [Qatar](https://cdn-icons-png.flaticon.com/128/197/197618.png) x [Equador](https://cdn-icons-png.flaticon.com/128/4854/4854969.png) 
+
+##  
+>>>>>>> 31c10eaeb91952d4cffd49373789512f9cba7597
